@@ -1,0 +1,93 @@
+@media only screen and (orientation:portrait){
+*{
+
+
+  margin: 0;
+  padding: 0;
+
+    width: 100%;
+}
+.centro{border: 0px solid #fff;width: 100%;position: relative;  margin-top: -1000px;}
+.container {
+  position: relative;
+  width: 100%;
+  border: 0px solid #fff;
+  margin: 0 auto;
+}
+
+
+
+
+@media (min-height: 1599px) {
+.price {
+ /* padding-bottom: 80px;*/
+   padding-bottom: 110px;
+}
+.play {
+  
+    width: 40%;
+	 margin: 0 auto;
+  left: 51%;
+  margin-left: 440px;
+
+	
+}
+body {
+ 
+  min-height: 1580px !important;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+.container {
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+.centro{
+ overflow-y: hidden;
+  overflow-x: hidden;
+}
+.centro{   border: 0px solid #fff;
+  width: 100%;
+  position: relative;
+  margin-top: -310px;}
+.roulette{
+ overflow-y: hidden;
+  overflow-x: hidden;
+}
+.pointer {
+  position: relative;
+  width: 0;
+  height: 0;
+  border: 200px solid;
+  border-color: white rgba(255, 255, 255, 0) rgba(255, 255, 255, 0) rgba(89, 89, 89, 0);
+  z-index: 999;
+  margin-top: 19px;
+  margin: 0 auto;
+}
+.fundo{
+  width: 100%;
+  position: relative;
+}
+.fundointerna{
+width: 1000px ;
+  height: 410PX;
+  position: absolute;
+  top: 50% !important;
+  left: 50% !important;
+  margin-top: 580px !important;
+  margin-left: -500px !important;
+  Z-INDEX: 46;
+}
+.fundointerna img{
+width: 46% !important;
+  MARGIN-LEFT: 27% !important;
+  MARGIN-TOP: -2% !important;
+}
+}
+
+
+
+
+
+
+
